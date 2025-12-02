@@ -30,4 +30,5 @@ macro_rules! init_solver {
 #[rustfmt::skip]
 init_solver!{
     1,
+    2,
 }
