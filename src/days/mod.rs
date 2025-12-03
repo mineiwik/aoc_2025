@@ -31,4 +31,5 @@ macro_rules! init_solver {
 init_solver!{
     1,
     2,
+    3,
 }
