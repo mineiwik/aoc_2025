@@ -27,9 +27,9 @@ macro_rules! init_solver {
     };
 }
 
-#[rustfmt::skip]
-init_solver!{
+init_solver! {
     1,
     2,
     3,
+    4,
 }
